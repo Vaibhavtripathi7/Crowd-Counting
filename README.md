@@ -52,11 +52,13 @@ For an in-depth understanding of the methodology, alternative architectures expl
 <a href="https://github.com/Vaibhavtripathi7/Crowd-Counting/blob/main/doc/documentation.pdf">Documentation</a> 
 
 ## License
-
+upd
 This project is licensed under the MIT License.
 
 ## Contact
 
-[Vaibhav tripathi]
-[<a href="https://www.linkedin.com/in/vaibhav-tripathi-378634287/">Linkedin</a> ] 
+Vaibhav tripathi
+
+<a href="https://www.linkedin.com/in/vaibhav-tripathi-378634287/">Linkedin</a>  
+
 Project Link: https://github.com/vaibhavtripathi7/Crowd-Counting
