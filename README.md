@@ -25,11 +25,6 @@ crowd-counting-project/
 │   ├── preprocess_data.ipynb   # Generates .npy density maps
 │   ├── train_model.ipynb       # Trains the DA-Net model
 │   └── test_model.ipynb        # Evaluates the trained model
-├── src/                        # (Optional) Reusable Python scripts (model, utils)
-├── data/
-│   ├── raw/                    # Placeholder for raw images and .mat files
-│   └── processed/              # Placeholder for generated .npy files
-├── models/                     # Stores trained model weights
 ├── .gitignore                  # Files to ignore in Git
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
