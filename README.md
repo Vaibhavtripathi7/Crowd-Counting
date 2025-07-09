@@ -2,7 +2,7 @@
 
 <img title="a title" src="results/78315csrnet 1.JPG">
 
-This project presents **DA-Net (Density-Aware Network)**, a hybrid deep learning architecture for robust crowd counting. It addresses challenges like scale variations and occlusions by leveraging advanced techniques to accurately estimate crowd density and total counts in images.
+This project introduces **DA-Net (Density-Aware Network)**, a deep learning-based hybrid structure for accurate crowd counting. This addresses issues such as varying scales and occlusions by utilizing advanced methods to provide precise crowd density and overall counts in images.
 
 ## Key Features
 
