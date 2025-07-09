@@ -1,0 +1,9 @@
+--- Crowd Counting Model Evaluation Metrics ---
+Model: DA-Net (efficientnet_b5 backbone)
+Test Dataset: /kaggle/input/dataset-crowd/processed_data/test/images
+Number of test images: 316
+------------------------------
+Overall MAE: 20.99
+Overall MSE: 1179.84
+Overall RMSE: 34.35
+------------------------------
