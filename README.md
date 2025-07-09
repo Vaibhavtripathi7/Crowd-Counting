@@ -1,18 +1,19 @@
 # DA-Net: Robust Crowd Counting in Dense Scenes
 
 
-This project presents DA-Net (Density-Aware Network), a hybrid deep learning architecture for robust crowd counting. It addresses challenges like scale variations and occlusions by leveraging advanced techniques to accurately estimate crowd density and total counts in images.
-Key Features
+This project presents **DA-Net (Density-Aware Network)**, a hybrid deep learning architecture for robust crowd counting. It addresses challenges like scale variations and occlusions by leveraging advanced techniques to accurately estimate crowd density and total counts in images.
 
-    - EfficientNet-B5 Backbone: For powerful feature extraction.
+## Key Features
 
-    - Feature Pyramid Network (FPN): Enables multi-scale feature fusion.
+- **EfficientNet-B5 Backbone:** For powerful feature extraction.
 
-    - Spatial Attention Mechanism: Focuses on important crowd components.
+- **Feature Pyramid Network (FPN):** Enables multi-scale feature fusion.
 
-    - Dilated Decoder: Generates rich, semantic density maps without downsampling.
+- **Spatial Attention Mechanism:** Focuses on important crowd components.
 
-    - Custom Loss Function: Combines MSE and Count MAE for accurate pixel-level and total count estimation.
+- **Dilated Decoder:** Generates rich, semantic density maps without downsampling.
+
+- **Custom Loss Function:** Combines MSE and Count MAE for accurate pixel-level and total count estimation.
 
 ## Performance
 
