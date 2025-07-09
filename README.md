@@ -49,7 +49,7 @@ crowd-counting-project/
 
 For an in-depth understanding of the methodology, alternative architectures explored, experimental setup, and detailed analysis, please refer to the full project documentation:
  
-<a href="https://github.com/Vaibhavtripathi7/Crowd-Counting/blob/main/doc/documentation.pdf">Documentation</a> 
+<a href="https://github.com/Vaibhavtripathi7/Crowd-Counting/blob/main/doc/Documentation.pdf">Documentation</a> 
 
 ## License
 
