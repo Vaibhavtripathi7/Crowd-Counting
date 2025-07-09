@@ -19,7 +19,7 @@ Key Features
 DA-Net achieved a Mean Absolute Error (MAE) of **20.99** on a challenging dataset, significantly outperforming baseline models like CSRNet and SegCrowdNet.
 
 ## Project Structure
-
+```
 crowd-counting-project/
 ├── notebooks/
 │   ├── preprocess_data.ipynb   # Generates .npy density maps
@@ -34,7 +34,7 @@ crowd-counting-project/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
 └── LICENSE                     # Licensing information
-
+```
 
 ## Getting Started
 
