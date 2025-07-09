@@ -35,7 +35,7 @@ crowd-counting-project/
 
 ## Getting Started
 
-    Clone the repository: git clone https://github.com/YourGitHubUsername/crowd-counting-project.git
+    Clone the repository: git clone https://github.com/vaibhavtripathi7/crowd-counting-project.git
 
     Install dependencies: pip install -r requirements.txt
 
