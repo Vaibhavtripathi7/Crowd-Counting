@@ -17,14 +17,19 @@ Key Features
 ## Performance
 
 DA-Net achieved a Mean Absolute Error (MAE) of **20.99** on a challenging dataset, significantly outperforming baseline models like CSRNet and SegCrowdNet.
-Project Structure
 
+## Project Structure
 
 crowd-counting-project/
 ├── notebooks/
 │   ├── preprocess_data.ipynb   # Generates .npy density maps
 │   ├── train_model.ipynb       # Trains the DA-Net model
 │   └── test_model.ipynb        # Evaluates the trained model
+├── src/                        # (Optional) Reusable Python scripts (model, utils)
+├── data/
+│   ├── raw/                    # Placeholder for raw images and .mat files
+│   └── processed/              # Placeholder for generated .npy files
+├── models/                     # Stores trained model weights
 ├── .gitignore                  # Files to ignore in Git
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
