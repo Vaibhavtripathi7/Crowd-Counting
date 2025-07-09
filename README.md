@@ -57,5 +57,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Vaibhav tripathi 
+[Vaibhav tripathi]
+[<a href="https://www.linkedin.com/in/vaibhav-tripathi-378634287/">Linkedin</a> ] 
 Project Link: https://github.com/vaibhavtripathi7/Crowd-Counting
