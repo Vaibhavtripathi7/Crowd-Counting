@@ -1,5 +1,6 @@
 # DA-Net: Robust Crowd Counting in Dense Scenes
 
+<img title="a title" alt="Alt text" src="/images/boo.svg">
 
 This project presents **DA-Net (Density-Aware Network)**, a hybrid deep learning architecture for robust crowd counting. It addresses challenges like scale variations and occlusions by leveraging advanced techniques to accurately estimate crowd density and total counts in images.
 
